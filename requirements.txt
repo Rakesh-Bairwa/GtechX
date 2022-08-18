@@ -6,7 +6,6 @@ Flask
 requests
 pywsd
 flashtext
-gunicorn
 spacy==3.4.1
 spacy-legacy==3.0.9
 spacy-loggers==1.0.2
